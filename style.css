@@ -1,0 +1,30 @@
+
+body {
+    background-color: black;
+    color: #ffac41;
+    
+}
+
+.timer {
+   text-align: center;
+   font-size: large;
+   padding: 10px;
+}
+
+.timer-numbers {
+    font-size: 50px;
+    font-weight: bold;
+    align-items: center;
+    padding: 10px;
+}
+
+.more {
+    background-color: #ffac41;
+    color: black;
+    width: 100px;
+    height: 40px;
+    margin: 0 auto;
+    padding: 10px ;
+}
+
+ 
